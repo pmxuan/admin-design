@@ -1,9 +1,9 @@
 {
     "root": "./",
-    "title": "示例文档",
-    "head_title": "_示例文档_字条网",
-    "head_description": "字条网示例文档",
-    "head_keywords": "字条,字条网,示例文档",
+    "title": "管理后台产品设计规范",
+    "head_title": "_管理后台产品设计规范_字条网",
+    "head_description": "管理后台产品设计规范",
+    "head_keywords": "管理后台,设计规范,产品规范,管理后台产品设计规范",
     "logo": "./images/logo.png",
 
     "gitbook": ">= 3.0.0",
@@ -22,7 +22,7 @@
 
     "pluginsConfig": {
         "sitemap-general": {
-            "prefix": "http://zitiao.org/simple/"
+            "prefix": "http://zitiao.org/admin-design/"
         }
     }
 }

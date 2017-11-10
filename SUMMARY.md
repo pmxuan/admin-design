@@ -1,2 +1,3 @@
 - [关于](README.md)
-- [部署](deploy.md)
+- [控件样式](components/index.md)
+- [文本 & 格式](format/index.md)
